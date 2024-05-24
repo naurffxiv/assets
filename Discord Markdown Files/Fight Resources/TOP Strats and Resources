@@ -1,0 +1,84 @@
+# __TOP Strats by Phases__
+All strats come from Saus' TOP Segz Bin
+Pastebin: https://pastebin.com/PyBmi5N4
+## __Phase 1: Omega (Beetle) (Evansith)__
+### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=758088204654761&preview=1)
+### Priorities
+Program Loop: Group 1 CCW from 4 Marker | Group 2 CW from 4 Marker | Flex Prio: Tanks-Melee-Range-Healer
+
+Pantokrater: Group 1 SW | Group 2 NE | Flex Prio: Tank-Melee-Ranged-Healer
+## __Phase 2: Omega M & Omega F (Dylan)__
+### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=324285310725761&preview=1)
+### Prepositions
+M side: MT H1 M1 R1
+
+F side: OT H2 M2 R2
+### Mid Glitch Positions               Far Glitch Positions
+         :Cross:     :Cross:                                           :Cross:    :Triangle: 
+         :Square:     :Square:                                           :Square:    :Square:      
+         :Circle:     :Circle:                                           :Circle:    :Circle: 
+         :Triangle:     :Triangle:                                           :Triangle:    :Cross:
+
+**Flex Priorities** : Northern most stack flexes if same side | East group Flexes South if Mid Glitch
+## __Phase 3: Final Omega (Dylan)__
+### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=243183080764761&preview=1)
+**For Intermission**: Healers Shield before Spreading
+
+**For P3 itself**: Tank takes heavy Autos, so tanks mit propperly and healer take care of your MT
+## __Phase 4: Reboot (Dylan)__
+### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=595188367474761&preview=1)
+**Flex Priorities** : If stacks are same side, Melee flexes
+## __Phase 5: Dynamis Omega M & Dynamis Omega F (Saus)__
+### [Delta Toolbox](https://ff14.toolboxgaming.space/?id=732288275415761&preview=1)
+### [Sigma Toolbox](https://ff14.toolboxgaming.space/?id=107380954136761&preview=1)
+**For Close Glitch**: Stand in the Middle of the tower
+
+**For Far Glitch**: Stand on the outer edge of the tower as far as possible
+### [Omega Toolbox](https://ff14.toolboxgaming.space/?id=078384491946761&preview=1)
+## __Phase 6: Alpha Omega (Saus)__
+### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=829484027197761&preview=1)
+# __General Fight Resources__
+## Mit Sheets
+### [Standard TOP Mitigation](https://docs.google.com/spreadsheets/d/1ROErvG1BhTuNvXqPGcR6ZyyhJ7uNTZdf2WzKyVj9hh4/edit#gid=58668446)
+### [Double Shield TOP Mitigation](https://docs.google.com/document/d/18qXjlpCGSGlC3wV7J9kMXj6KhDK5hnxkHhLQd6WUdbI/edit)
+## TOP Simulations
+### [XIV Sim](https://www.xivsim.com/top/)
+### [Roblox Delta Sim](https://www.roblox.com/games/12341874643/TOP-P5-Trio-1-Delta-Simulator)
+## Waymarks
+```
+{"Name":"3rdRing-NE","MapID":908,"A":{"X":100.0,"Y":0.0,"Z":86.37,"ID":0,"Active":true},"B":{"X":113.63,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":113.63,"ID":2,"Active":true},"D":{"X":86.37,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":109.58,"Y":0.0,"Z":90.42,"ID":4,"Active":true},"Two":{"X":109.58,"Y":0.0,"Z":109.58,"ID":5,"Active":true},"Three":{"X":90.42,"Y":0.0,"Z":109.58,"ID":6,"Active":true},"Four":{"X":90.42,"Y":0.0,"Z":90.42,"ID":7,"Active":true}}
+```
+## Helpful Macros
+### P2 Party Synergy
+```
+/p                Remote
+/p                 
+/p                 
+/p                 
+/p                 
+
+Discord broke the macro, sorry. See the image below.
+```
+### P5 Sigma Towers
+```
+/micon "Smile" Emote
+/p     - CLOSE + Smiley -
+/p          ~  1              2 ~
+/p       ~                            ~
+/p    ~                                 ~
+/p  ~                                     ~
+/p  ~  A, 3                  D, 4  ~
+/p    ~                                ~
+/p      --       B          C     --
+```
+```
+/micon "Star"
+/p            FAR + STAR       
+/p          ~      2,  1        ~
+/p     ~                               ~
+/p  ~                                     ~
+/p  ~  A                           D     ~
+/p  ~                                      ~
+/p    ~   B, 3               C, 4 ~
+/p      --                            --
+```
