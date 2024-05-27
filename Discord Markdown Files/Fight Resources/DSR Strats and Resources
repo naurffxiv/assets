@@ -1,7 +1,7 @@
 # __DSR Strats by Phases__
-All strats listed are APD strats
+**Webpage Version**: https://ultistrats.com/guides/dsr/
 ## __P1: Vault Knights__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=802461081524561&preview=1#1)
+### [Vault Knights Toolbox](https://ff14.toolboxgaming.space/?id=802461081524561&preview=1#1)
 ### Knockback lineup:
 :Triangle::Cross::Square: 
 :Circle:       :Circle:  
@@ -13,11 +13,11 @@ All strats listed are APD strats
 ### [Trio 2: Brainsmort/Daylights/DRK relative Toolbox](https://ff14.toolboxgaming.space/?id=840061660351561&preview=1)
 ### [Trio 3 Meteors/Fire and Ice Toolbox](https://ff14.toolboxgaming.space/?id=226768720878561&preview=1#20)
 ## __P3: Nidstinien__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=442165647202561&preview=1)
+### [Nidstinien Toolbox](https://ff14.toolboxgaming.space/?id=442165647202561&preview=1)
 - Westhogg (Arrows always face West)
 - Tanks and melees adjust enumerations
 ## __P4: The Eyes__
-### [Toolbox / Raidplan](https://raidplan.io/plan/1wcD63zv2L8OB9KC)
+### [The Eyes Toolbox](https://ff14.toolboxgaming.space/?id=613699253336171&preview=1)
 - G1 NW/CCW, G2 NE/CW (3rd dive swaps use prio from their dive, so clockwise-most first dive takes clockwise-most third dive)
 ### [Intermission Toolbox](https://ff14.toolboxgaming.space/?id=999851866521561&preview=1)
 Slide 16 (same as P1)
@@ -32,10 +32,10 @@ Slide 16 (same as P1)
 - NW/NE dooms anchor SE/SW.
 - :Square: and :Triangle:  non-dooms adjust to their partner. :Cross: adjust on the fly.
 - Caster LB true north
-### [DOTH Quake Dodge Image](https://imgur.com/a/HwoVrIy)
+### [DOTH Quake Dodge Image](https://github.com/naurffxiv/assets/blob/main/Toolbox%20Resources/DSR/DOTHQuakeDodges.png?raw=true)
 ## __P6: Double Dragon__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=426762112878561&preview=1)
-### [Static WB2 Positions Image](https://imgur.com/a/Xkrjevq)
+### [Double Dragon Toolbox](https://ff14.toolboxgaming.space/?id=426762112878561&preview=1)
+### [Static WB2 Positions Image](https://github.com/naurffxiv/assets/blob/main/Toolbox%20Resources/DSR/StaticWB2Positions.png?raw=true)
 - G1 North/Nid, G2 South/Hrae
 - Rot Passes: Random DPS > Tank 1 > Tank 2 > Melee > Caster
 - Tank Rot Prio (or who takes first tank pass since rot applies healing debuff): WAR>GNB>>>>PLD>DRK
@@ -44,7 +44,7 @@ Slide 16 (same as P1)
 - Melee tethers in WB2 will not fully stretch, they will still live
 
 ## __P7: Dragon-King Thordan__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=448767858029561&preview=1)
+### [Dragon-King Thordan Toolbox](https://ff14.toolboxgaming.space/?id=448767858029561&preview=1)
 -MRH trinities, G1 (Numbers) then G2 (Letters)
 - 3-3-2 stacks: G1 NW, G2 NE, tanks south
 - 6-1-1 stacks: G1 and G2 NW, Kitchen Sinking Tank NE, Invulning Tank south
@@ -60,15 +60,10 @@ Slide 16 (same as P1)
 ### [Solo sim for Phase 3, Wrath, Doth, Double Dragons, Exaflares](https://github.com/WCGH/Dragonsong-Sim/releases)
 ## Helpful Macros
 ### P1  Setup Macro
-```
-/p   
-/p     
-/p   
+Discord breaks the macro. See this post to get it: [ Vault Knights PlayStation Macro](
+https://na.finalfantasyxiv.com/lodestone/character/27408312/blog/5009018/)
 
-Discord Broke the macro. See this post to get it: 
-https://na.finalfantasyxiv.com/lodestone/character/27408312/blog/5009018/
-```
-This is also the orientation of markers you'll use in P5 Playstation 2. It looks like this in-game:
+This is also the orientation of markers you'll use in P5 PlayStation 2. It looks like this in-game:
 ```
 D △   T X   T □
 D O         D O

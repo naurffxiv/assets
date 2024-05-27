@@ -1,21 +1,23 @@
 # UWU Strats by Phase
+**Webpage Version**: https://ultistrats.com/guides/uwu/
 ## __Phase 1: Garuda (centerruda, tanks left)__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=359535529826261&preview=1)
+### [Garuda Toolbox](https://ff14.toolboxgaming.space/?id=359535529826261&preview=1)
 *Please note that the caster goes east and the off-tank goes west to take Mesohigh tethers.*
 ## __Phase 2: Ifrit__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1)
+### [Ifrit Toolbox](https://ff14.toolboxgaming.space/?id=562530446784261&preview=1)
 *Ifrit Dashes can be skipped with sufficiently high DPS.*
 ## __Phase 3: Titan__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=463534803605261&preview=1)
+### [Titan Toolbox](https://ff14.toolboxgaming.space/?id=463534803605261&preview=1)
 *NOTE: Party Finder groups in North America and Europe expect the use of an "automarker" (AM, "Allagan Melon") third party tool to simplify the Titan Gaols mechanic. There are Terms of Service-friendly ways of resolving this mechanic (e.g., self-marking macros), although such use is extremely rare in Party Finder and more suitable in a static environment.*
 ## __Intermission__
-### [Toolbox / Raidplan](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1)
+### [Intermission Toolbox](https://ff14.toolboxgaming.space/?id=430631425646261&preview=1)
 ## __[Phase 4: Ultima]__
 ### [Predation Toolbox ](https://ff14.toolboxgaming.space/?id=530635345646261&preview=1)
 ### [Annihilation Toolbox ](https://ff14.toolboxgaming.space/?id=930637786646261&preview=1)
 ### [Suppression Toolbox ](https://ff14.toolboxgaming.space/?id=830635036646261&preview=1)
 Tanks left, party right on aetheric booms.
 # __General fight resources__
+## Mitigation
 ### [Tank Mitigation Sheet](https://docs.google.com/spreadsheets/d/13dpeUEBHFpLxX38gjC8oh1xEB4F7xBECI9BvycJEsfk/edit#gid=831820397)
-### Markers: 
+## Markers
 {"Name":"UWU","MapID":539,"A":{"X":100.0,"Y":0.0,"Z":93.3,"ID":0,"Active":true},"B":{"X":106.7,"Y":0.0,"Z":100.0,"ID":1,"Active":true},"C":{"X":100.0,"Y":0.0,"Z":106.7,"ID":2,"Active":true},"D":{"X":93.3,"Y":0.0,"Z":100.0,"ID":3,"Active":true},"One":{"X":107.3,"Y":0.0,"Z":107.3,"ID":4,"Active":true},"Two":{"X":100.0,"Y":0.0,"Z":81.0,"ID":5,"Active":true},"Three":{"X":100.0,"Y":0.0,"Z":100.0,"ID":6,"Active":true},"Four":{"X":87.0,"Y":0.0,"Z":87.0,"ID":7,"Active":true}}
