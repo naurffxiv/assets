@@ -145,7 +145,7 @@ Click this if you receive no debuff. You should stand on the same number bind as
 :Gunbreaker:  [Gunbreaker as OT](<https://www.twitch.tv/videos/2166633612##>) by @.solara 
 ##  :HealerRole:    **Healer**    :HealerRole: 
 ### Regen
-:WhiteMage: [White Mage as](<>) by 
+:WhiteMage: [White Mage as Healer 1](<https://www.twitch.tv/videos/1885855482>) by @clairefleuret 
 :Astrologian: [Astrologian as Healer 1](<https://www.twitch.tv/videos/2150374154>) by @uwuby 
 ### Shield
 :Sage: [Sage as](<>) by 
@@ -155,13 +155,13 @@ Click this if you receive no debuff. You should stand on the same number bind as
 :Samurai: [Samurai as Melee 1](<https://youtu.be/4_gMRbzCGzw?si=pkRLUTTKPBJDCWqJ>) by @caitlynxiv 
 :Monk: [Monk as Melee 1](<https://www.youtube.com/watch?v=7MmGdQiRkv8>) by @caitlynxiv 
 :Ninja: [Ninja as Melee 1](<https://www.youtube.com/watch?v=W779xZxFmmU>) by @caitlynxiv 
-:Dragoon: [Dragoon as](<>) by 
+:Dragoon: [Dragoon as Melee 2](<https://www.twitch.tv/videos/2167957260>) by @misterwonderful 
 :Reaper: [Reaper as](<>) by 
 :Viper: [Viper as](<>) by 
 ### Phys Ranged
-:Bard: [Bard as](<>) by
-:Dancer: [Dancer as](<>) by 
-:Machinist: [Machinist as](<>) by
+:Bard: [Bard as Ranged 1](<https://www.youtube.com/watch?v=tCIw8Gq3Cq4>) by@caitlynxiv
+:Dancer: [Dancer as Ranged 1](<https://www.youtube.com/watch?v=GbjfNPtPzBg>) by @sariel2 
+:Machinist: [Machinist as Ranged 1](<https://www.youtube.com/watch?v=OiXDn8N-Qq0>) by @sariel2 
 ### Caster
 :Summoner: [Summoner](<>) by
 :RedMage: [Red Mage as Group 2](<https://www.twitch.tv/videos/2150363185>) by @uwuby 

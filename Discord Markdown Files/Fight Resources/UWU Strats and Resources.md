@@ -39,11 +39,11 @@ Tanks left, party right on aetheric booms.
 :TankEmoji: [Tank as OT](<>) by @stryx 
 ## :HealerRole:    **Healer**    :HealerRole: 
 ### Regen
-:WhiteMage: [White Mage as](<>) by 
-:Astrologian: [Astrologian as](<>) by 
+:WhiteMage: [White Mage - No Searing Wind](<https://www.twitch.tv/videos/2153617369>) by @softestclo 
+:Astrologian: [Astrologian - No Searing Wind](<https://www.twitch.tv/videos/2153690827>) by @softestclo 
 ### Shield
-:Sage: [Sage as](<>) by 
-:Scholar: [Scholar as](<>) by 
+:Sage: [Sage - Searing Wind on Ifirt and Ultima](<https://www.twitch.tv/videos/2153686831>) by @softestclo 
+:Scholar: [Scholar - Searing Wind on Ifirt and Ultima](<https://www.twitch.tv/videos/2153692504>) by @softestclo 
 ## :DPSRole:    **DPS**    :DPSRole: 
 ###  Melee
 :Samurai: [Samurai as](<>) by 
@@ -54,11 +54,11 @@ Tanks left, party right on aetheric booms.
 :Viper: [Viper as](<>) by 
 ### Phys Ranged
 :Bard: [Bard as](<>) by
-:Dancer: [Dancer as](<>) by 
+:Dancer: [Dancer as West Baits](<https://www.youtube.com/watch?v=CEUv-iv57H8>) by @ddoan 
 :Machinist: [Machinist as](<>) by 
 ### Caster
 :Summoner: [Summoner](<>) by
-:RedMage: [Red Mage as](<>) by 
+:RedMage: [Red Mage as West Baits](<https://youtu.be/D1sciQSLxZY?si=m4F_7tpStw-Qpy6X>) by @apileofcats 
 :BlackMage: [Black Mage as](<>) by
 :Pictomancer: [Pictomancer as](<>) by
 ### **Mechanic POVs**
