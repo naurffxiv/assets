@@ -62,9 +62,11 @@ Tanks left, party right on aetheric booms.
 :BlackMage: [Black Mage as](<>) by
 :Pictomancer: [Pictomancer as](<>) by
 ### **Mechanic POVs**
+[Quick guide to Ifrit Dashes (Z-Order)](https://youtu.be/pZ6FPoVkbRY?si=wXOGGFQVBa6zEGTs) made by @pettanko_neko 
 [Titan Gaols 2 POV](<https://www.youtube.com/watch?v=vKtc2LnhOkw>)
 [Predation Quick Guide](<https://www.youtube.com/watch?v=d08-CA5zS1c>)
 [Ultimate Suppression Visual Guide](<https://www.youtube.com/watch?v=PSrbDnFtIJ0>)
+[Quick guide to Primal Roulette](https://youtu.be/CHbzuXPIi-4?si=P9r20Rekz5nTotp1) made by @pettanko_neko 
 ────────────────────────
 # __Table of Contents__
 ## [UWU Strats by Phases](https://discord.com/channels/1172230157776466050/1249058081606991944/1249062035837161635)
