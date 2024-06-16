@@ -18,7 +18,7 @@ H > M > R > T, alternate sides to drop puddles, starting with east
 ### [Trio 2: Brainsmort/Daylights/DRK relative Toolbox](https://ff14.toolboxgaming.space/?id=840061660351561&preview=1)
 ### [Trio 3 Meteors/Fire and Ice Toolbox](https://ff14.toolboxgaming.space/?id=226768720878561&preview=1#20)
 ## P3: Nidstinien
-### [Nidstinien Toolbox](https://ff14.toolboxgaming.space/?id=442165647202561&preview=1)
+### [Nidstinien Toolbox](https://ff14.toolboxgaming.space/?id=324694010528171&preview=1)
 - Westhogg (Arrows always face West)
 - Tanks and melees adjust enumerations
 ## P4: The Eyes
@@ -57,7 +57,7 @@ Tank LB as soon as Haurchefant appears
 ────────────────────────
 # __General Fight Resources__
 ## Mit Sheets
-### [Sausfest Mitigation Sheet](https://tinyurl.com/dsrmitty )
+### [NAUR Mitigation Sheet](https://docs.google.com/spreadsheets/d/1YJX933Fe6MeNv06QVQfRUI3oJVfCvm4OqOyLCSjcAJk/edit?usp=sharing )
 ### [Double Shield Mitigation Sheet](https://docs.google.com/document/d/18i2ElKFtkO4c1MLIUP-hY-YXNLa4iTi8jIlrLF2dMb8/edit)
 ### [DPS Mitigation Sheet](https://docs.google.com/spreadsheets/d/1o3H2j46Q5ZVKB6OxhOO8__DV2zRues1etuOabxlJA_8/edit#gid=171570300)
 ## DSR Cheat Sheets / Images
