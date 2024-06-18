@@ -44,7 +44,7 @@
 :Scholar: [Scholar as](<>) by 
 ## :DPSRole:    **DPS**    :DPSRole: 
 ###  Melee
-:Samurai: [Samurai as](<>) by 
+:Samurai: [Samurai as M1](<https://youtu.be/0KvzHLxjbcM?si=Eq_nzDTUt-9oHcA2>) by @caitlynxiv 
 :Monk: [Monk as](<>) by 
 :Ninja: [Ninja as](<>) by 
 :Dragoon: [Dragoon as](<>) by 
@@ -59,6 +59,15 @@
 :RedMage: [Red Mage as Caster](<https://www.youtube.com/watch?v=aYaeAfDiT0E>) by @caitlynxiv 
 :BlackMage: [Black Mage as](<>) by
 :Pictomancer: [Pictomancer as](<>) by
+### Mechanic Guides
+[The Epic of Alexander (Ultimate) - Visual Guide](https://youtu.be/uVtZ8-XoOZ0?si=OAaFRtS0Ll6mT6ex) by Tessan Twintails
+_PLEASE NOTE - Some of the strategies in this video differ from the toolboxes above, namely how the party splits during inception. This is an overview of the fight in much more detail of how mechanics function if you are interested._
+
+[TEA Limit Cut Guide](https://youtu.be/r3PODekimO0?si=5b0o7-jKCHEgSDqV) by Alninio
+_Note: Videos says LPDU but follows NAUR strats as well_
+
+[TEA Wormhole Guide](https://youtu.be/yAstTj6LMdA?si=6MdGAuyFjFjLHTXB) by Alninio
+_Note: Videos says LPDU but follows NAUR strats as well_
 ────────────────────────
 # __Table of Contents__
 ## [TEA Strats by Phases](https://discord.com/channels/1172230157776466050/1249057839205585017/1249064689959440556)
