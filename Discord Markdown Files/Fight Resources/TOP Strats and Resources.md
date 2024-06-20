@@ -66,7 +66,8 @@ F side: OT H2 M2 R2
 ### Main Tank
 :TankEmoji: [Tank as MT](<>) by
 ### Off Tank
-:DarkKnight: [Dark Knight as OT](<https://youtu.be/GMYBt4gwAS8?si=VOnBxM5i9kvullPw>)by @stryx 
+:DarkKnight: [Dark Knight as OT](<https://youtu.be/GMYBt4gwAS8?si=VOnBxM5i9kvullPw>) by @stryx 
+:Paladin: [Paladin as OT](<https://youtu.be/RRwEan9E8tI?si=Oxm30Edz_ygG1l91>) by @wol._. 
 ## :HealerRole:    **Healer**    :HealerRole: 
 ### Regen
 :WhiteMage: [White Mage as](<>) by 
