@@ -57,7 +57,7 @@ Tanks left, party right on aetheric booms.
 :Dancer: [Dancer as West Baits](<https://www.youtube.com/watch?v=CEUv-iv57H8>) by @ddoan 
 :Machinist: [Machinist as](<>) by 
 ### Caster
-:Summoner: [Summoner](<>) by
+:Summoner: [Summoner as East Baits](<https://www.youtube.com/watch?v=DS5HDRcJYaQ>) by @up2up
 :RedMage: [Red Mage as West Baits](<https://youtu.be/D1sciQSLxZY?si=m4F_7tpStw-Qpy6X>) by @apileofcats 
 :BlackMage: [Black Mage as](<>) by
 :Pictomancer: [Pictomancer as](<>) by
