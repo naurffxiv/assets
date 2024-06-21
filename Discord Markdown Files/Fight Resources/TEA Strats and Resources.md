@@ -25,6 +25,7 @@
 ### [General TEA Mitigation](https://docs.google.com/spreadsheets/d/1A58RflNeNq9mesuvSEcQzIvQ3MwOGyvPRi5khNACrc8/edit#gid=1511755464)
 ### [Detailed Tank Mitigation](https://docs.google.com/spreadsheets/d/1zB5NpvIR0J5uAybtYkqAn_gglnmYcSCo0b0mgSZagUg/edit#gid=917445177)
 ## Simulations
+### [KR/EN Wormhole & Limit Cut Unity Sim](https://github.com/naurffxiv/assets/tree/main/Simulators)
 ### [Browser version of Limit Cut/Temporal Stacks/Inception/Wormhole](https://dangermomentum.itch.io/1256-sim)
 ## TEA Cheat Sheets / Images
 ### [General TEA Cheat Sheet](https://raw.githubusercontent.com/naurffxiv/assets/main/Toolbox%20Resources/TEA/TeaCheatSheet.png)
