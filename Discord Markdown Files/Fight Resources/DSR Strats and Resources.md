@@ -148,7 +148,7 @@ Click this if you receive no debuff. You should stand on the same number bind as
 :WhiteMage: [White Mage as Healer 1](<https://www.twitch.tv/videos/1885855482>) by @clairefleuret 
 :Astrologian: [Astrologian as Healer 1](<https://www.twitch.tv/videos/2150374154>) by @uwuby 
 ### Shield
-:Sage: [Sage as](<>) by 
+:Sage: [Sage as Healer 2](<https://www.twitch.tv/videos/2177826051>) by @misterwonderful 
 :Scholar: [Scholar as Healer 2](<https://www.youtube.com/watch?v=X0d9bbmT4Ao>) by @kyrona2 
 ## :DPSRole:    **DPS**    :DPSRole: 
 ###  Melee
